@@ -1,1 +1,1 @@
-A tool to decode Growtopia's items.dat
+A simple tool to decode Growtopia's items.dat 
